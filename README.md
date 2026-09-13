@@ -212,3 +212,6 @@ DirectX 9 is available as a complete free version, fully equipped with all featu
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Ready to elevate your multimedia experience? Download DirectX 9 now and unleash the power of your PC!
+
+---
+**Last updated:** 2026-09-13 23:59:26 UTC
