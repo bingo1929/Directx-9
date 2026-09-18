@@ -214,4 +214,4 @@ DirectX 9 is available as a complete free version, fully equipped with all featu
 Ready to elevate your multimedia experience? Download DirectX 9 now and unleash the power of your PC!
 
 ---
-**Last updated:** 2026-09-18 14:15:23 UTC
+**Last updated:** 2026-09-18 18:12:49 UTC
